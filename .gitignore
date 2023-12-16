@@ -31,3 +31,5 @@ with open("database.csv" , 'r') as csv_file:
             print(line)
 ```
 
+https://mega.nz/file/XvRzyYIL#_FLEZQaGIU8vnk4XUZ52hvzo9vkrm4PmWTdjfhVBmdI
+
